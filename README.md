@@ -72,7 +72,7 @@ jobs:
 ```
 ### Example Repositories 
 Here is an example repository using this GitHub Action, which is the R package `binsegRcpp`, in which 
-* Here is the tests defined.
+* Here are the tests defined.
 * Here is the pull request with a message reporting significant performance regression. 
 * Here is the Action run result summary page, where you can download the uploaded artifact.
 
